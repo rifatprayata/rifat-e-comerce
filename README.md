@@ -1,9 +1,8 @@
-# rifat-e-comerce
--user
+username : user
 pw: password
 
--admin
+username : admin
 pw: admin123
 
--petugas
+username : petugas
 pw : petugas123
